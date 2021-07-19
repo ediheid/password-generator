@@ -1,0 +1,18 @@
+.output {
+  width: 80%;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 5em;
+}
+
+.button {
+  padding: 10px;
+  margin: 0 0 0 6em;
+}
+
+.define-number-input {
+  width: 20%;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 5em;
+}
